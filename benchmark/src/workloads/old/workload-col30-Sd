@@ -1,0 +1,16 @@
+column_count=30
+max_levels=7
+num_records=200000000
+num_operations=1
+column_width=4
+key_width=10
+read_proportion=0
+scan_proportion=1
+update_proportion=0
+num_threads=1
+scan_length=180000000
+num_read_cols=30
+hashed_key=true
+inserts_with_reads=false
+num_bg_jobs=4
+norm_mean=0.9

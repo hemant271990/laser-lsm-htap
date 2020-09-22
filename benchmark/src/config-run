@@ -1,0 +1,15 @@
+disable_compaction=true
+column_count=10
+max_levels=7
+column_from_k=1
+db_path=/home/h2saxena/Desktop/shichao-klsm/klsm/testRDB/data-benchmark
+num_records=3000000
+num_operations=100
+column_width=5
+key_width=10
+read_proportion=0.5
+scan_proportion=0.2
+insert_proportion=0.1
+update_proportion=0.2
+num_threads=2
+scan_length=100000
